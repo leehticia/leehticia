@@ -16,8 +16,17 @@
 
 ------ (em preenchimento)
 
+<div align="center">
+    <tr>
+      <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4Nmk1N2h5eWJwcGd0NXJuMTAxYTBudHpzeTc5ZnM5MmQ0bWtlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTJtvbaT4tI36xUn5l/giphy.gif" width="250px" height="250px"> </td>
+    </tr>
+</div>
+
+***
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leehticia&bg_color=0d1117&color=A52A2A&line=A52A2A&point=A52A2A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A52A2A&height=120&section=footer"/>
+
